@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RESERVAMEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="RESTAURANTE">
+    <Key>
+      <PropertyRef Name="cCodRest" />
+    </Key>
+    <Property Name="cCodRest" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cNombre" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="cDireccion" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="cContacto" Type="varchar" MaxLength="255" />
+    <Property Name="cLatitud" Type="decimal" Precision="9" Scale="6" />
+    <Property Name="cLongitud" Type="decimal" Precision="9" Scale="6" />
+    <Property Name="cParking" Type="bit" />
+    <Property Name="cInternet" Type="bit" />
+    <Property Name="cVisa" Type="bit" />
+    <Property Name="cMastercard" Type="bit" />
+    <Property Name="cValoracion" Type="decimal" Precision="2" Scale="1" />
+    <Property Name="cCodTipo" Type="int" />
+    <Property Name="cCodDescuento" Type="int" />
+    <Property Name="cTelefono" Type="varchar" MaxLength="20" />
+    <Property Name="cCelular" Type="varchar" MaxLength="20" />
+    <Property Name="cHorario" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="cUsername" />
+    </Key>
+    <Property Name="cUsername" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cPassword" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="cFullname" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="cCelular" Type="varchar" MaxLength="20" />
+    <Property Name="cEmail" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="dFechaNac" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="RESERVAMEModelStoreContainer">
+    <EntitySet Name="RESTAURANTE" EntityType="Self.RESTAURANTE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

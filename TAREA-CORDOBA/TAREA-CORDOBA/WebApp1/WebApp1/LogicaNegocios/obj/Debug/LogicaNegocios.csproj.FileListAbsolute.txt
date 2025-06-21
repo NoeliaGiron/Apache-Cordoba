@@ -1,0 +1,24 @@
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\bin\Debug\CursoSM.LogicaNegocios.dll
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\bin\Debug\CursoSM.LogicaNegocios.pdb
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\bin\Debug\CursoSM.AccesoDatos.dll
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\bin\Debug\CursoSM.AccesoDatos.pdb
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\bin\Debug\CursoSM.AccesoDatos.dll.config
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\obj\Debug\LogicaNegocios.csprojAssemblyReference.cache
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CopyComplete
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\obj\Debug\CursoSM.LogicaNegocios.dll
+C:\Users\Mell\source\repos\WebApp1\LogicaNegocios\obj\Debug\CursoSM.LogicaNegocios.pdb
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\bin\Debug\CursoSM.LogicaNegocios.dll
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\bin\Debug\CursoSM.LogicaNegocios.pdb
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\bin\Debug\CursoSM.AccesoDatos.dll
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\bin\Debug\CursoSM.AccesoDatos.pdb
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\bin\Debug\CursoSM.AccesoDatos.dll.config
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\obj\Debug\LogicaNegocios.csprojAssemblyReference.cache
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CopyComplete
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\obj\Debug\CursoSM.LogicaNegocios.dll
+C:\Users\Santiago Sosa\Downloads\WebApp1\LogicaNegocios\obj\Debug\CursoSM.LogicaNegocios.pdb

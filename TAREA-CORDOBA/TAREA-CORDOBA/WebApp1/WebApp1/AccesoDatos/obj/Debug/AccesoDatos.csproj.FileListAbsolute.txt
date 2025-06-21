@@ -1,0 +1,19 @@
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.dll.config
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.dll
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.pdb
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\obj\Debug\CursoSM.AccesoDatos.dll
+C:\Users\Mell\source\repos\WebApp1\AccesoDatos\obj\Debug\CursoSM.AccesoDatos.pdb
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.dll.config
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.dll
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.pdb
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\obj\Debug\CursoSM.AccesoDatos.dll
+C:\Users\Santiago Sosa\Downloads\WebApp1\AccesoDatos\obj\Debug\CursoSM.AccesoDatos.pdb

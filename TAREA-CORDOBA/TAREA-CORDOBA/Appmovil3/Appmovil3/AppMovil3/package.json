@@ -1,0 +1,21 @@
+{
+    "name": "AppMovil3",
+    "version": "1.0.0",
+    "private": true,
+    "devDependencies": {
+        "cordova-android": "11",
+        "cordova-browser": "^7.0.0",
+        "cordova-ios": "4.2.0",
+        "cordova-plugin-whitelist": "1.2.2"
+    },
+    "cordova": {
+        "platforms": [
+            "android",
+            "ios",
+            "browser"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        }
+    }
+}

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RESERVAMEModelStoreContainer" CdmEntityContainer="RESERVAMEEntities">
+    <EntitySetMapping Name="RESTAURANTE">
+      <EntityTypeMapping TypeName="RESERVAMEModel.RESTAURANTE">
+        <MappingFragment StoreEntitySet="RESTAURANTE">
+          <ScalarProperty Name="cCodRest" ColumnName="cCodRest" />
+          <ScalarProperty Name="cNombre" ColumnName="cNombre" />
+          <ScalarProperty Name="cDireccion" ColumnName="cDireccion" />
+          <ScalarProperty Name="cContacto" ColumnName="cContacto" />
+          <ScalarProperty Name="cLatitud" ColumnName="cLatitud" />
+          <ScalarProperty Name="cLongitud" ColumnName="cLongitud" />
+          <ScalarProperty Name="cParking" ColumnName="cParking" />
+          <ScalarProperty Name="cInternet" ColumnName="cInternet" />
+          <ScalarProperty Name="cVisa" ColumnName="cVisa" />
+          <ScalarProperty Name="cMastercard" ColumnName="cMastercard" />
+          <ScalarProperty Name="cValoracion" ColumnName="cValoracion" />
+          <ScalarProperty Name="cCodTipo" ColumnName="cCodTipo" />
+          <ScalarProperty Name="cCodDescuento" ColumnName="cCodDescuento" />
+          <ScalarProperty Name="cTelefono" ColumnName="cTelefono" />
+          <ScalarProperty Name="cCelular" ColumnName="cCelular" />
+          <ScalarProperty Name="cHorario" ColumnName="cHorario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USUARIO">
+      <EntityTypeMapping TypeName="RESERVAMEModel.USUARIO">
+        <MappingFragment StoreEntitySet="USUARIO">
+          <ScalarProperty Name="dFechaNac" ColumnName="dFechaNac" />
+          <ScalarProperty Name="cUsername" ColumnName="cUsername" />
+          <ScalarProperty Name="cPassword" ColumnName="cPassword" />
+          <ScalarProperty Name="cFullname" ColumnName="cFullname" />
+          <ScalarProperty Name="cCelular" ColumnName="cCelular" />
+          <ScalarProperty Name="cEmail" ColumnName="cEmail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
